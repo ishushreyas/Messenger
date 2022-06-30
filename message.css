@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+font-family: 'Poppins';
+}
+#dash_head{
+background-color: rgb(252,252,255);
+margin: 0;
+padding: 15px;
+width: 100vw;
+height: 30vh;
+position: absolute;
+top:0;
+}
+#dash_head h1{
+position: absolute;
+bottom:0;
+}
