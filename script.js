@@ -3,6 +3,10 @@
 window.gender = "";
 window.gender_f = ""
 
+if( screen.width < 400 ) {
+ location.replace("https://ishushreyas.github.io/msg/index-mobile.html");
+ }
+
 function setthm() {
  var g1 = document.getElementById(
    "g1")
